@@ -2,7 +2,7 @@ android_app_import {
   name: "MountainDrizzleLauncher",
   apk: "app-release-unsigned.apk",
   certificate: "platform",
-  priviledge: true,
+  privileged: true,
   overrides: [
         "Home",
         "Launcher2",
