@@ -1,8 +1,0 @@
-android_app_import {
-  name: "MountainDrizzleLauncher",
-  apk: "app-release-unsigned.apk",
-  certificate: "platform",
-  privileged: true,
-  overrides: ["Home","Launcher2","Launcher3","Launcher3QuickStep"],
-  required: ["privapp_whitelist_com.android.launcher3"],
-}
