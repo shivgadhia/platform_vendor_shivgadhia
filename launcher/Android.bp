@@ -1,0 +1,7 @@
+android_app_import {
+    name: "MountainDrizzleLauncher",
+    apk: "MountainDrizzleLauncher.apk",
+    certificate: "platform",
+    priviliged: true,
+    overrides: ["Home", "GoogleHome","Launcher", "Launcher2", "Launcher3", "Launcher3QuickStep"]
+}
